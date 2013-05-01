@@ -10,6 +10,8 @@ Using xml you can share your contents on web. At the same time you are free to g
 ROME is an open source tool to parse, generate and publish RSS and Atom feeds.
 Using Rome you can parse the available RSS and Atom feeds. Without bothering about format and version of RSS feed.
 The core library depends on the JDOM XML parser.
-
+JDOM is using To provide a complete, Java-based solution for accessing, manipulating, and 
+outputting XML data from Java code. 
+ JDOM integrates with Document Object Model (DOM) and Simple API for XML (SAX), supports XPath and XSLT. 
 
 https://java.net/projects/rome/pages/Home
